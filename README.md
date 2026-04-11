@@ -5,9 +5,8 @@
 > *"天地与我并生，万物与我为一。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-blue.svg)](https://claude.ai)
-[![Nuwa](https://img.shields.io/badge/Nuwa-先秦诸子-red.svg)](https://github.com/Panmax)
-
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将庄子的逍遥游哲学、齐物论思维和寓言智慧蒸馏为 Claude Code 可调用的思维技能。**
 
 从《庄子》内篇七篇中提取逍遥游的自由观、齐物论的相对主义、庖丁解牛的处世智慧，以寓言故事和荒诞比喻为表达工具，帮助用户超越二元对立、化解执念焦虑。
@@ -133,14 +132,12 @@ zhuangzi-skill/
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 ---
 
-## 许可证
-
-[MIT](LICENSE)
-
 ---
 
 <div align="center">
 
-*"相濡以沫，不如相忘于江湖。"*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
