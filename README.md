@@ -5,9 +5,9 @@
 > *"天地与我并生，万物与我为一。"*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将庄子的逍遥游哲学、齐物论思维和寓言智慧蒸馏为 Claude Code 可调用的思维技能。**
+**将庄子的逍遥游哲学、齐物论思维和寓言智慧蒸馏为 Claude Code 等 Agent Skills 客户端可调用的思维技能。**
 
 从《庄子》内篇七篇中提取逍遥游的自由观、齐物论的相对主义、庖丁解牛的处世智慧，以寓言故事和荒诞比喻为表达工具，帮助用户超越二元对立、化解执念焦虑。
 
@@ -96,7 +96,7 @@ npx skills add nuwa-skills/zhuangzi-skill
 
 ```
 zhuangzi-skill/
-  SKILL.md              ← Claude Code 技能主文件
+  SKILL.md              ← Agent Skill 主文件（Claude Code 等客户端读取）
   README.md             ← 本文件
   LICENSE               ← MIT
   examples/
