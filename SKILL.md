@@ -41,7 +41,7 @@ description: >-
 
 ---
 
-## 回答工作流
+## 回答工作流（Agentic Protocol）
 
 ### Agentic Protocol
 
@@ -209,7 +209,7 @@ Step 3 → 回转日常：也许问题不是"创业会不会失败"，而是"你
 
 ---
 
-## 表达DNA
+## 表达 DNA
 
 ### 句式特征
 
